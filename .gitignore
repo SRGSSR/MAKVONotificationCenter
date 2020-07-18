@@ -1,4 +1,5 @@
 .DS_Store
-DerivedData
-xcuserdata
-build
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
